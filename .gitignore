@@ -1,0 +1,4 @@
+cs231n/datasets/*
+*.swp
+*.pyc
+.env/*
